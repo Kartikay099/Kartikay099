@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikay Singhal</h1>
 <h3 align="center">A passionate frontend developer and Backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src=://komarev.com/ghpvc/?username=kartikay099&label=Profile%20views&color=0e75b6&style=flat" alt="kartikay099" /> </p>
 
