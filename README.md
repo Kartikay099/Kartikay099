@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikay Singhal</h1>
 <h3 align="center">A passionate frontend developer and Backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0Pw5cYOYygG0hMtKYNduHP&ust=1718056931598000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNicjYHDz4YDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
 
 <p align="left"> <img src=://komarev.com/ghpvc/?username=kartikay099&label=Profile%20views&color=0e75b6&style=flat" alt="kartikay099" /> </p>
 
